@@ -27,3 +27,6 @@ The output should be simmilar to this, containing all the pricing information (t
     },    
 ]
 ```
+## Used gems and libraries
+* [Nokogiri](https://rubygems.org/gems/nokogiri) - HTML parser gem
+* [OpenUri](http://www.rubydoc.info/stdlib/open-uri/OpenURI) - URL content fetching module
